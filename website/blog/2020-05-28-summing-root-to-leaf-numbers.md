@@ -127,4 +127,4 @@ I hope this post helped! Please do let me know if you have any feedback, comment
 
 ## Acknowledgements
 
-Advay, Kevin, Louie for reviewing this post and Yangshun for the idea of adding it as a blog post.
+Advay, Kevin, Louie for reviewing this post and bgoonz for the idea of adding it as a blog post.
